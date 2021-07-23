@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+
+
+    
+  }
+
+  .resize-handler {
+    width: 6px;
+    height: 40px;
+    display: inline-block;
+    cursor: col-resize; 
+    background-color: blueviolet;
+    float: right;
+  }
